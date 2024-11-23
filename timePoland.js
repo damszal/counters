@@ -1,5 +1,4 @@
 const timeNow = document.querySelector('.timePoland');
-console.log(timeNow)
 
 const timeInterval = setInterval(() => {
     const currentTime = new Date();
